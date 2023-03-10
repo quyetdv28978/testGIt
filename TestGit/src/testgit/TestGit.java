@@ -14,7 +14,7 @@ public class TestGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("tét gít");
+        System.out.println("quyet hibernate");
     }
     
 }
