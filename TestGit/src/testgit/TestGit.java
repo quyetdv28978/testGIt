@@ -15,6 +15,7 @@ public class TestGit {
      */
     public static void main(String[] args) {
         System.out.println("tét gít");
+        System.out.println(4 + 3);
     }
     
 }
